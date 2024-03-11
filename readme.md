@@ -8,8 +8,8 @@ These instructions will get your copy of the project up and running on your loca
 
 ### Prerequisites
 
-- Node.js v18.14.2
-- npm v9.5.0
+- Node.js v18.14.2 or later version
+- npm v9.5.0 or later version
 
 ### Installation
 
